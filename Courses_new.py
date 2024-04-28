@@ -1,3 +1,18 @@
+ds_course1 = [['Machine Learning Crash Course by Google [Free]', 'https://developers.google.com/machine-learning/crash-course'],
+             ['Machine Learning A-Z by Udemy','https://www.udemy.com/course/machinelearning/'],
+             ['Machine Learning by Andrew NG','https://www.coursera.org/learn/machine-learning'],
+             ['Data Scientist Master Program of Simplilearn (IBM)','https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training'],]
+
+ds_course2 = [['Data Scientist Master Program of Simplilearn (IBM)','https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training'],
+             ['Data Science Foundations: Fundamentals by LinkedIn','https://www.linkedin.com/learning/data-science-foundations-fundamentals-5'],
+             ['Data Scientist with Python','https://www.datacamp.com/tracks/data-scientist-with-python'],
+             ['Programming for Data Science with Python','https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104'],]
+
+ds_course3 = [['Programming for Data Science with Python','https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104'],
+             ['Computer Architecture','https://www.coursera.org/learn/comparch'],
+             ['Data Structures and Algorithms Specialization','https://www.coursera.org/specializations/data-structures-algorithms'],
+             ['DSA to System Design','https://www.geeksforgeeks.org/courses/interviewe-101-data-structures-algorithm-system-design?utm_source=article&utm_medium=article&utm_campaign=dsa-live-for-working-professionals-live']]
+
 
 
 ml_course1 = [['Machine Learning Crash Course by Google [Free]', 'https://developers.google.com/machine-learning/crash-course'],
@@ -49,7 +64,8 @@ interview_videos = ['https://youtu.be/HG68Ymazo18','https://youtu.be/BOvAAoxM4vg
 
 
 
-ds_course1 = [["Coursera - Data Structures and Algorithms Specialization by University of California San Diego & National Research University Higher School of Economics","https://www.coursera.org/specializations/data-structures-algorithms"],
+ds_course1 = [["Machine Learning Crash Course by Google [Free]","https://developers.google.com/machine-learning/crash-course"],
+               ["Coursera - Data Structures and Algorithms Specialization by University of California San Diego & National Research University Higher School of Economics","https://www.coursera.org/specializations/data-structures-algorithms"],
                ["Algorithms and Data Structures MicroMasters Program by UC San Diego","https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures"],
                ["Udemy - Master the Coding Interview: Data Structures + Algorithms","https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/"]]
 
